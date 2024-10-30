@@ -1,0 +1,6 @@
+@MultiProjectsApplicationsAPI_HostAddress = http://localhost:5242
+
+GET {{MultiProjectsApplicationsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
